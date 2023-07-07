@@ -8,6 +8,6 @@ float a, b, c, d, resultado = 0;
   cout<<"digite el valor de d: "; cin>>d;
 
   resultado =a+b/c+d;
-  cout<<"/El resultado esssss: "<<resultado<<endl;
+  cout<<"/El resultado eessss: "<<resultado<<endl;
   return 0;
   }
